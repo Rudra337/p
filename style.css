@@ -1,0 +1,59 @@
+body
+{
+    background: linear-gradient(cyan, white);
+}
+
+
+
+#note
+{
+    color: lightseagreen;
+    font-size: 18px;
+    width: 100%;
+}
+
+.object_detect
+{
+    float: none;
+}
+
+.img-speed
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed
+{
+    font-size: 20px;
+    margin: 15px;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+.img-volume
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume
+{
+    font-size: 20px;
+    margin: 15px;
+}
+
+.play_button
+{
+    width:  130px;
+    font-size: 25px;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    margin-top: 190px;
+}
